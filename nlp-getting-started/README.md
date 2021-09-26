@@ -1,4 +1,4 @@
-* Natural Language Processing with Disaster Tweets
+# Natural Language Processing with Disaster Tweets
 
 Getting starting competition in the building machine learning model to predict tweets about real disasters
 by using in the area of Natural Language Processing.
